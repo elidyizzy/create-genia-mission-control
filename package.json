@@ -1,0 +1,25 @@
+{
+  "name": "create-genia-mission-control",
+  "version": "1.0.0",
+  "description": "Instalador do GEN.IA Mission Control — um comando para ter seu time de agentes IA funcionando",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "node bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "enquirer": "^2.4.1",
+    "ora": "^8.0.1",
+    "execa": "^8.0.1",
+    "open": "^10.1.0",
+    "node-fetch": "^3.3.2",
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["claude", "ai", "genia", "mission-control", "claude-code"],
+  "author": "Elidy Izidio <elidy@geniasquad.com.br>",
+  "license": "MIT",
+  "type": "module"
+}
