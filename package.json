@@ -1,6 +1,6 @@
 {
   "name": "create-genia-mission-control",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Instalador do GEN.IA Mission Control — um comando para ter seu time de agentes IA funcionando",
   "bin": {
     "create-genia-mission-control": "bin/index.js"
